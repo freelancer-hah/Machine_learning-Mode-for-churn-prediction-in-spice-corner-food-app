@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+*.pkl
+
+# Models
+models/*.pkl
+models/*.json
+
+# IDE
+.idea/
+*.swp
+
+# Logs
+*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
